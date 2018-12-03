@@ -29,7 +29,7 @@ int countPoints(int princess, int prince) {
 			break;
 		}
 		castle[room] = '.';
-		if (prince == -1) {
+		if (princePoints == -1) {
 			return princePoints;
 		}
 	}
