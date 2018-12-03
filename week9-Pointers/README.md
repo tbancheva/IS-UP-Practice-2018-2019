@@ -108,5 +108,5 @@ cout<< ref; // 5;
 Изказване от с++ форум:
 > Even though a reference is often implemented using an address in the underlying assembly language, please do not think of a reference as a funny looking pointer to an object. A reference is the object. It is not a pointer to the object, nor a copy of the object. It is the object.
 
-За още информация прочетете [тук](https://i.ibb.co/WxTRLjX/image.jpg)
+За още информация прочетете [тук](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html?fbclid=IwAR3wk44Mx_UZhtVQRkiO_kfhuXRZeG7Lk20lrJV9hNKIALADNPW0QHnAQeg)
 
