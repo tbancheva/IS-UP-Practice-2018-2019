@@ -12,7 +12,7 @@ int main(){
 *Пример:*
 ```c++
 int main(){
-    int array = {2, 8, 15, 0, 4, 3};
+    int array[] = {2, 8, 15, 0, 4, 3};
     print(reverseArray(array, 6), 6); // 3 4 0 15 8 2
 }
 ```
@@ -22,7 +22,7 @@ int main(){
 *Пример:*
 ```c++
 int main(){
-    int array = { 2, 8, 15, 0, 4, 3};
+    int array[] = { 2, 8, 15, 0, 4, 3};
     cout << boolalpha << removeElement(array, 6, 0); // true
 }
 ```
